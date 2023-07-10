@@ -1,5 +1,5 @@
 # lam
-latent attitude method forthcoming in Sociological Methodology 
+latent attitude method forthcoming in Sociological Methodology ;
 lam-ml.do: maximize likelihood estimation on trends on attitudes toward China 
 lam-sim.do: simulation example 
 lam-china.dta : individual example on attitudes toward China 
