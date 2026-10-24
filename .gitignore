@@ -1,0 +1,5 @@
+.DS_Store
+.work/
+*.log
+*.ster
+stata-lam/results/

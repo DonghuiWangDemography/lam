@@ -1,0 +1,20 @@
+v 3
+d LAM for Stata
+d Shared latent attitude trends from pooled ordinal survey series
+d Version 0.1.0
+d 23 October 2026
+d Method by Donghui Wang, Yu Xie, and Junming Huang
+f lam.ado
+f lam_mata.mata
+f lam_p.ado
+f lam_plot.ado
+f lam.sthlp
+f lam_plot.sthlp
+f README.md
+f docs/quickstart-zh.md
+f docs/method-audit.md
+f docs/release-notes.md
+f docs/testing-zh.md
+f docs/testing-en.md
+f examples/synthetic.do
+f examples/china.do

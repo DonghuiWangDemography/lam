@@ -1,0 +1,4 @@
+v 3
+d LAM for Stata
+d Constant-cutpoint latent attitude model for pooled survey series
+p lam Latent attitude method
